@@ -14,6 +14,7 @@ Online link: iphone-website-fawn.vercel.app
 - Million.js
 
 ## Screenshot
+![Screenshot 2024-08-01 125006](https://github.com/user-attachments/assets/616ba87b-f846-4657-9445-7fb46e764689)
 
 ## Features
 - **Interactive 3D model**: A highly detailed 3D model of the iPhone 15 Pro that allows users to view the device from different angles and customize its color.
